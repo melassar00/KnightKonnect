@@ -1,1 +1,2 @@
-# smallproject2020
+# KnightKonnect
+Connect with your fellow Knights!
